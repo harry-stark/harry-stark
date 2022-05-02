@@ -5,7 +5,7 @@
 
 - My development interests lean towards :
   - High Performance computing. 
-  - Developing and extending different scientific computing frameworks mainly focusing on developing/optimising new ops and kernels with parallel programming frameworks like CUDA, Eigen and OpenCL.
+  - Developing and extending different scientific computing frameworks (mainly focusing on developing/optimising new ops and kernels with parallel programming frameworks like CUDA, Eigen and OpenCL).
   - Production ML.
 
 - Tools and Frameworks I'm adept in: Python,Tensorflow, Pytorch, C++, CUDA, Eigen, JAX, Numpy, Pandas etc. 
@@ -16,5 +16,5 @@
 
 - Currently thinking about spending some more time on production ML.
 
-Apart from this, I usually spend my remaining day finding new songs for my anxiety filled brain and critique anime/movie plot holes.
+Apart from this, I usually spend my remaining day finding new songs for my anxiety filled brain and critiquing anime/movie plot holes.
 
