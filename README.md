@@ -1,8 +1,6 @@
 
 ### Hye I'm Harry Saini, but you can call me Harsimranjeet Singh Saini.
 
-- I'm currently a graduating senior at NIT Hamirpur.
-
 - My development interests lean towards :
   - High Performance computing. 
   - Developing and extending different scientific computing frameworks (mainly focusing on developing/optimising new ops and kernels with parallel programming frameworks like CUDA, Eigen and OpenCL).
