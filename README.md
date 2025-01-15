@@ -1,6 +1,8 @@
 
 ### Hye I'm Harry Saini, but you can call me Harsimranjeet Singh Saini.
 
+OLD stuff; will update this one day; hopefully while being bored under a warm sun on japan beach.
+
 - My development interests lean towards :
   - High Performance computing. 
   - Developing and extending different scientific computing frameworks (mainly focusing on developing/optimising new ops and kernels with parallel programming frameworks like CUDA, Eigen and OpenCL).
