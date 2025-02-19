@@ -1,7 +1,7 @@
 
 ### Hye I'm Harry Saini, but you can call me Harsimranjeet Singh Saini.
 
-OLD stuff; will update this one day; hopefully while being bored under a warm sun on japan beach.
+OLD stuff; will update this one day; hopefully while bored, under a warm sun on Okinawa beach.
 
 - My development interests lean towards :
   - High Performance computing. 
