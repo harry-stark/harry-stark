@@ -1,5 +1,5 @@
 
-### Hye I'm Harry Saini, but you can call me Harsimranjeet Singh Saini.
+### Hye I'm Harry Saini.
 
 OLD stuff; will update this one day; hopefully while bored, under a warm sun on Okinawa beach.
 
